@@ -46,6 +46,7 @@ const show = computed({
           </template>
           <div class="min-h-[100px]">
             <General />
+            <img referrer="no-referrer|origin|unsafe-url" src="/aha.gif">
           </div>
         </NTabPane>
         <NTabPane v-if="isChatGPTAPI" name="Advanced" tab="Advanced">

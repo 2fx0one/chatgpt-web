@@ -486,6 +486,13 @@ onUnmounted(() => {
               <SvgIcon icon="ri:bubble-chart-fill" class="mr-2 text-3xl" />
               <span>Aha~</span>
             </div>
+
+            <!--            <div class="flex items-center justify-center mt-4 text-center text-neutral-300"> -->
+            <!--              <img referrer="no-referrer|origin|unsafe-url" src="/aha.gif"> -->
+            <!--            </div> -->
+            <div class="flex items-center justify-center mt-4 text-center text-neutral-300">
+              <span style="font-size: 18px">Hello, World！ 我是 chatGPT 搬运工。快来调戏我 ^_^</span>
+            </div>
           </template>
           <template v-else>
             <div>

@@ -28,5 +28,6 @@ coverage
 *.sln
 *.sw?
 
+build.sh
 # Environment variables files
 /service/.env
