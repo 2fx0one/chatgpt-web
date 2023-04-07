@@ -17,7 +17,7 @@ export function defaultSetting(): UserState {
     userInfo: {
       avatar: 'https://avatars.githubusercontent.com/u/5274589?v=4',
       name: '王小二(GPT搬运工)',
-      description: 'Follow me <a href="https://github.com/2fx0one" class="text-blue-500" target="_blank" >Github</a>',
+      description: 'Follow me <a href="https://github.com/2fx0one/chatgpt-web" class="text-blue-500" target="_blank" >Github</a>',
     },
   }
 }

@@ -49,7 +49,7 @@ onMounted(() => {
           此项目开源于
           <a
             class="text-blue-600 dark:text-blue-500"
-            href="https://github.com/2fx0one"
+            href="https://github.com/2fx0one/chatgpt-web"
             target="_blank"
           >
             Github

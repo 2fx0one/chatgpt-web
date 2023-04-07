@@ -1,0 +1,3 @@
+# docker image版本打包使用 请勿删除！
+docker.image.name: chat-gpt
+docker.image.version: 0.00.001
